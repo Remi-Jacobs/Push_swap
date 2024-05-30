@@ -6,7 +6,7 @@
 #    By: ojacobs <ojacobs@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/20 20:49:10 by ojacobs           #+#    #+#              #
-#    Updated: 2024/05/30 19:02:05 by ojacobs          ###   ########.fr        #
+#    Updated: 2024/05/30 19:18:55 by ojacobs          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -57,16 +57,16 @@ SRCS =	        ft_atoi.c\
     ft_substr.c\
     ft_tolower.c\
     ft_toupper.c\
-    ft_printf/ft_print_char.c\
-    ft_printf/ft_printf.c\
-    ft_printf/ft_print_hex.c\
-    ft_printf/ft_print_num.c\
-    ft_printf/ft_print_percent.c\
-    ft_printf/ft_print_str.c\
-    ft_printf/ft_print_unint.c\
-    ft_printf/ft_putaddress.c\
-    ft_printf/ft_putchar.c\
-    ft_printf/ft_putstr.c
+    printf/ft_print_char.c\
+    printf/ft_printf.c\
+    printf/ft_print_hex.c\
+    printf/ft_print_num.c\
+    printf/ft_print_percent.c\
+    printf/ft_print_str.c\
+    printf/ft_print_unint.c\
+    printf/ft_putaddress.c\
+    printf/ft_putchar.c\
+    printf/ft_putstr.c
 #   getnextline/get_next_line_bonus.c
 #   getnextline/get_next_line.c
 #   getnextline/get_next_line_utils_bonus.c
